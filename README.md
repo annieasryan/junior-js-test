@@ -33,6 +33,4 @@ Upload the cloned repository into your github account(new repository must be pub
 
 Once you finished coding part commit and push your solution.
 
-Commit message must be `feat(winner): doesCartWinPrize`
-
-Sent an email to `edik.baghdasaryan@milies.net` and include repository link in the message.
+Commit message must be `feat(winner): doesCartWinPrize`.
