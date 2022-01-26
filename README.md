@@ -8,12 +8,12 @@ When comparing, assume that you work with prices for which 2 digits after the co
 1. Clone the repository 
 2. Run `npm install`
 
-## Invariant
+## Task
 The task is considered done if all of your test cases pass successfuly.
 
 To run tests execute `npm run test`.
 
-In case of successfuly tests you will see this message
+In case of successful tests you will see this message
 ```
 TAP version 13
 ok 1 Test 1
@@ -26,4 +26,13 @@ ok 3 Test 3
 # fail 0
 ```
 
-If any of tests fails the task is considered as failed.
+If any of test cases fail the task is considered as failed.
+
+### Next steps
+Upload the cloned repository into your github account(new repository must be public).
+
+Once you finished coding part commit and push your solution.
+
+Commit message must be `feat(winner): doesCartWinPrize`
+
+Sent an email to `edik.baghdasaryan@milies.net` and include repository link in the message.
