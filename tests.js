@@ -16,8 +16,6 @@ QUnit.test('Test 2', function(assert) {
 
 // Tricky numbers
 QUnit.test('Test 3', function(assert) {
-  //123.39999999999999
   assert.deepEqual(doesCartWinPrize([123.1, .3]), true);
-  //123.4 - (123.1+.31) = -0.009999999999990905
   assert.deepEqual(doesCartWinPrize([123.1, .31]), false);
 });
